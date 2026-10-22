@@ -1,0 +1,9 @@
+Issue Type,Summary,Description,Priority,Acceptance Criteria
+Epic,Customer Churn Analysis Dashboard,Build a beginner reporting solution for customer churn,High,SQL Excel and Power BI outputs are documented
+Task,Import and review dataset,Load the supplied CSV and check columns,High,30 records and expected columns are visible
+Task,Run SQL analysis,Run queries for churn rate contract and tenure,High,Queries execute and results are recorded
+Task,Create Excel summaries,Build PivotTables and a chart,Medium,Churn and contract summaries are visible
+Task,Build Power BI visuals,Create churn contract charge and tenure visuals,High,Required visuals display data
+Task,Write BRD and FRD,Document business objective and functional requirements,Medium,Documents are complete and reviewed
+Task,Perform UAT,Execute test checklist and record actual results,High,Test outcomes are updated honestly
+Task,Prepare final report,Summarize methods findings limitations and next steps,Medium,Report reflects actual work completed

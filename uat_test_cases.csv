@@ -1,0 +1,6 @@
+TestID,Scenario,Steps,ExpectedResult,Status,ActualResult
+UAT-01,Dashboard loads,Open the Power BI report,Report opens without errors,Not tested,
+UAT-02,Customer count,Count CustomerID,Total equals 30 records,Not tested,
+UAT-03,Churn chart,Review churn status visual,Yes and No categories are represented,Not tested,
+UAT-04,Filter internet service,Select one InternetService in slicer,Visuals update to selected category,Not tested,
+UAT-05,Cross-check totals,Compare SQL Excel and Power BI counts,Counts agree for matching filters,Not tested,
